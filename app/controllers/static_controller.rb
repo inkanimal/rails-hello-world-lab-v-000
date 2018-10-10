@@ -1,7 +1,7 @@
 class StaticController < ApplicationController
   
-  def about
-    render "index"
+  def hello world
+    
   end
 
 
