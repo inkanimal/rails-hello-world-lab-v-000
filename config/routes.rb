@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  get 'about', to: 'static#about'
+  get 'hello world', to: 'static#hell world'
   
   
   # The priority is based upon order of creation: first created -> highest priority.
